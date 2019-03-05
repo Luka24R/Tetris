@@ -1,0 +1,15 @@
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Toshiba Satellite\Documents\Visual Studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Toshiba Satellite\Documents\Visual Studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Toshiba Satellite\Documents\Visual Studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba Satellite\Documents\Visual Studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormWelcome.resources
+C:\Users\Toshiba Satellite\Documents\Visual Studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Toshiba Satellite\Documents\Visual Studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Toshiba Satellite\Documents\Visual Studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Toshiba Satellite\Documents\Visual Studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Toshiba Satellite\Documents\Visual Studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Main.resources
+C:\Users\Toshiba Satellite\Documents\Visual Studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Tetris.resources
+C:\Users\Toshiba Satellite\documents\visual studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\bin\Debug\Player.dll
+C:\Users\Toshiba Satellite\documents\visual studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\bin\Debug\Player.pdb
+C:\Users\Toshiba Satellite\documents\visual studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormCustomize.resources
+C:\Users\Toshiba Satellite\documents\visual studio 2013\Projects\Tetris - dizajn\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.nextFigure.resources
